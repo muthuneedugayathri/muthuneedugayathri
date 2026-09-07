@@ -1,6 +1,6 @@
 # Hi, I'm Gayathri 👋
 
-🎓 Final-year B.Tech, Artificial Intelligence & Data Science @ AITS, Tirupati (CGPA 8.9)
+🎓 Third Year B.Tech, Artificial Intelligence & Data Science @ AITS, Tirupati (CGPA 8.9)
 📊 Aspiring **Data Analyst** | Excel → SQL → Power BI
 🏆 Microsoft Student Ambassador (MSLA) — Contributor
 📌 *"Don't buy the certificate. Buy the skill."*
